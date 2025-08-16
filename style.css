@@ -89,3 +89,18 @@ footer a {
   text-decoration: none;
 }
 
+/* Project 1 */
+.project-detail {
+  max-width: 800px;
+  margin: auto;
+  padding: 3rem 1rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+.project-detail h2 {
+  margin-top: 0;
+}
+.project-detail ul {
+  padding-left: 1.2rem;
+}
